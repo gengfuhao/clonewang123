@@ -1,0 +1,20 @@
+{
+    "/goods/detail/:goodsId":"/goodsDetail?goodsId=:goodsId",
+    "/review/:goodsId": "/review?goodsId=:goodsId",
+    "/review/rating/:goodsId":"/reviewRating?goodsId=:goodsId",
+    "/review/total/:goodsId":"/reviewTotal?goodsId=:goodsId",
+    "/review/goodsId/:goodsId/offset/:offset": "/review?goodsId=:goodsId&offset=:offset",
+    "/goodsqa/:goodsId": "/goodsqa?goodsId=:goodsId",
+    "/goods/info/:goodsId":"/goodsInfo?goodsId=:goodsId",
+    "/add/cart/:userId":"/addCart?userId=:userId",
+    "/cart/list/:userId":"/cartList?userId=:userId",
+    "/buy/later/list/:userId": "/buyLaterList?userId=:userId",
+    "/user/info/:userId":"/userInfo?userId=:userId",
+    "/order/list/:userId":"/orderList?userId=:userId",
+    "/order/detail/:orderCode":"/orderDetail?orderCode=:orderCode",
+    "/wish/list/:userId":"/wishList?userId=:userId",
+    "/wish/goods/list/:userId": "/wishgoodsList?userId=:userId",
+    "/info/change/:userId":"/infoChange?userId=:userId"
+
+    
+}

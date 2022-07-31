@@ -1,0 +1,1255 @@
+{
+  "newGoodses": [
+    {
+      "id": 1,
+      "link": "/goods/detail/10195",
+      "tittle": "智能降噪 长久续航",
+      "imgSrc": "http://localhost:8080/assets/image/3bfc7c72-b56a-4088-8acf-e01e830ce72a.jpg",
+      "name": "索尼1 WH-1000XM3 头戴式耳机 麒麟显卡 16G内...",
+      "price": 250,
+      "counter": "猜你喜欢",
+      "comment": "最多人购买"
+    },
+    {
+      "id": 2,
+      "link": "/goods/detail/10195",
+      "tittle": "智能降噪 长久续航",
+      "imgSrc": "http://localhost:8080/assets/image/7a406989-061b-4f69-baa1-6fa499aa091d.jpg",
+      "name": "索尼1 WH-1000XM3 头戴式耳机 麒麟显卡 16G内...",
+      "price": 250,
+      "counter": "猜你喜欢",
+      "comment": "最多好评"
+    },
+    {
+      "id": 3,
+      "link": "/goods/detail/10195",
+      "tittle": "智能降噪 长久续航",
+      "imgSrc": "http://localhost:8080/assets/image/8c1c9fb2-26aa-4fa0-b9ce-cf278d827fa6.jpg",
+      "name": "索尼1 WH-1000XM3 头戴式耳机 麒麟显卡 16G内...",
+      "price": 250,
+      "counter": "猜你喜欢",
+      "comment": "好物不贵"
+    },
+    {
+      "id": 4,
+      "link": "/goods/detail/10195",
+      "tittle": "智能降噪 长久续航",
+      "imgSrc": "http://localhost:8080/assets/image/8fc9776e-9393-421d-998c-e516b3877dba.jpg",
+      "name": "索尼1 WH-1000XM3 头戴式耳机 麒麟显卡 16G内...",
+      "price": 250,
+      "counter": "猜你喜欢",
+      "comment": ""
+    },
+    {
+      "id": 5,
+      "link": "/goods/detail/10195",
+      "tittle": "智能降噪 长久续航",
+      "imgSrc": "http://localhost:8080/assets/image/3bfc7c72-b56a-4088-8acf-e01e830ce72a.jpg",
+      "name": "索尼1 WH-1000XM3 头戴式耳机 麒麟显卡 16G内...",
+      "price": 250,
+      "counter": "猜你喜欢",
+      "showComment": true
+    }
+  ],
+  "hotGoodses": [
+    {
+      "id": 1,
+      "link": "/goods/detail/10195",
+      "tittle": "智能降噪 长久续航",
+      "imgSrc": "http://localhost:8080/assets/image/3bfc7c72-b56a-4088-8acf-e01e830ce72a.jpg",
+      "name": "索尼1 WH-1000XM3 头戴式耳机 麒麟显卡 16G内...",
+      "price": 250,
+      "counter": "猜你喜欢",
+      "showComment": true
+    },
+    {
+      "id": 2,
+      "link": "/goods/detail/10196",
+      "tittle": "智能降噪 长久续航",
+      "imgSrc": "http://localhost:8080/assets/image/7a406989-061b-4f69-baa1-6fa499aa091d.jpg",
+      "name": "索尼1 WH-1000XM3 头戴式耳机 麒麟显卡 16G内...",
+      "price": 250,
+      "counter": "猜你喜欢"
+    },
+    {
+      "id": 3,
+      "link": "/goods/detail/10195",
+      "tittle": "智能降噪 长久续航",
+      "imgSrc": "http://localhost:8080/assets/image/8c1c9fb2-26aa-4fa0-b9ce-cf278d827fa6.jpg",
+      "name": "索尼1 WH-1000XM3 头戴式耳机 麒麟显卡 16G内...",
+      "price": 250,
+      "counter": "猜你喜欢"
+    },
+    {
+      "id": 4,
+      "link": "/goods/detail/10195",
+      "tittle": "智能降噪 长久续航",
+      "imgSrc": "http://localhost:8080/assets/image/8fc9776e-9393-421d-998c-e516b3877dba.jpg",
+      "name": "索尼1 WH-1000XM3 头戴式耳机 麒麟显卡 16G内...",
+      "price": 250,
+      "counter": "猜你喜欢"
+    }
+  ],
+  "categories": [
+    {
+      "categoryName": "家电 数码 手机",
+      "categories": [
+        {
+          "categoryName": "家电",
+          "categories": [
+            {
+              "categoryName": "卷发器",
+              "link": "/goods/detail/10195"
+            },
+            {
+              "categoryName": "电饭煲",
+              "link": "/goods/detail/10195"
+            }
+          ]
+        },
+        {
+          "categoryName": "数码",
+          "categories": [
+            {
+              "categoryName": "游戏主机",
+              "link": "/goods/detail/10195"
+            },
+            {
+              "categoryName": "电脑主机",
+              "link": "/goods/detail/10195"
+            }
+          ]
+        },
+        {
+          "categoryName": "手机",
+          "categories": [
+            {
+              "categoryName": "荣耀手机",
+              "link": "/goods/detail/10195"
+            },
+            {
+              "categoryName": "华为手机",
+              "link": "/goods/detail/10195"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categoryName": "女装 男装 穿搭",
+      "categories": [
+        {
+          "categoryName": "女装",
+          "categories": [
+            {
+              "categoryName": "半身裙",
+              "link": "/goods/detail/10195"
+            },
+            {
+              "categoryName": "连衣裙",
+              "link": "/goods/detail/10195"
+            }
+          ]
+        },
+        {
+          "categoryName": "男装",
+          "categories": [
+            {
+              "categoryName": "西装",
+              "link": "/goods/detail/10195"
+            },
+            {
+              "categoryName": "领带",
+              "link": "/goods/detail/10195"
+            }
+          ]
+        },
+        {
+          "categoryName": "穿搭",
+          "categories": [
+            {
+              "categoryName": "运动",
+              "link": "/goods/detail/10195"
+            },
+            {
+              "categoryName": "休闲",
+              "link": "/goods/detail/10195"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categoryName": "家具 家饰 家纺",
+      "categories": [
+        {
+          "categoryName": "家具",
+          "categories": [
+            {
+              "categoryName": "沙发",
+              "link": "/goods/detail/10195"
+            },
+            {
+              "categoryName": "床垫",
+              "link": "/goods/detail/10195"
+            }
+          ]
+        },
+        {
+          "categoryName": "家饰",
+          "categories": [
+            {
+              "categoryName": "挂钟",
+              "link": "/goods/detail/10195"
+            },
+            {
+              "categoryName": "盆栽",
+              "link": "/goods/detail/10195"
+            }
+          ]
+        },
+        {
+          "categoryName": "家纺",
+          "categories": [
+            {
+              "categoryName": "窗帘",
+              "link": "/goods/detail/10195"
+            },
+            {
+              "categoryName": "靠垫",
+              "link": "/goods/detail/10195"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categoryName": "家电 数码 手机",
+      "categories": [
+        {
+          "categoryName": "家电",
+          "categories": [
+            {
+              "categoryName": "卷发器",
+              "link": "/goods/detail/10195"
+            },
+            {
+              "categoryName": "电饭煲",
+              "link": "/goods/detail/10195"
+            }
+          ]
+        },
+        {
+          "categoryName": "数码",
+          "categories": [
+            {
+              "categoryName": "游戏主机",
+              "link": "/goods/detail/10195"
+            },
+            {
+              "categoryName": "电脑主机",
+              "link": "/goods/detail/10195"
+            }
+          ]
+        },
+        {
+          "categoryName": "手机",
+          "categories": [
+            {
+              "categoryName": "荣耀手机",
+              "link": "/goods/detail/10195"
+            },
+            {
+              "categoryName": "华为手机",
+              "link": "/goods/detail/10195"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categoryName": "女装 男装 穿搭",
+      "categories": [
+        {
+          "categoryName": "女装",
+          "categories": [
+            {
+              "categoryName": "半身裙",
+              "link": "/goods/detail/10195"
+            },
+            {
+              "categoryName": "连衣裙",
+              "link": "/goods/detail/10195"
+            }
+          ]
+        },
+        {
+          "categoryName": "男装",
+          "categories": [
+            {
+              "categoryName": "西装",
+              "link": "/goods/detail/10195"
+            },
+            {
+              "categoryName": "领带",
+              "link": "/goods/detail/10195"
+            }
+          ]
+        },
+        {
+          "categoryName": "穿搭",
+          "categories": [
+            {
+              "categoryName": "运动",
+              "link": "/goods/detail/10195"
+            },
+            {
+              "categoryName": "休闲",
+              "link": "/goods/detail/10195"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categoryName": "家具 家饰 家纺",
+      "categories": [
+        {
+          "categoryName": "家具",
+          "categories": [
+            {
+              "categoryName": "沙发",
+              "link": "/goods/detail/10195"
+            },
+            {
+              "categoryName": "床垫",
+              "link": "/goods/detail/10195"
+            }
+          ]
+        },
+        {
+          "categoryName": "家饰",
+          "categories": [
+            {
+              "categoryName": "挂钟",
+              "link": "/goods/detail/10195"
+            },
+            {
+              "categoryName": "盆栽",
+              "link": "/goods/detail/10195"
+            }
+          ]
+        },
+        {
+          "categoryName": "家纺",
+          "categories": [
+            {
+              "categoryName": "窗帘",
+              "link": "/goods/detail/10195"
+            },
+            {
+              "categoryName": "靠垫",
+              "link": "/goods/detail/10195"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "swiper": [
+    {
+      "id": 1,
+      "link": "/goods/detail/10195",
+      "tittle": "智能降噪 长久续航",
+      "imgSrc": "http://localhost:8080/assets/image/3bfc7c72-b56a-4088-8acf-e01e830ce72a.jpg"
+    },
+    {
+      "id": 2,
+      "link": "/goods/detail/10195",
+      "tittle": "智能降噪 长久续航",
+      "imgSrc": "http://localhost:8080/assets/image/7a406989-061b-4f69-baa1-6fa499aa091d.jpg"
+    },
+    {
+      "id": 3,
+      "link": "/goods/detail/10195",
+      "tittle": "智能降噪 长久续航",
+      "imgSrc": "http://localhost:8080/assets/image/8c1c9fb2-26aa-4fa0-b9ce-cf278d827fa6.jpg"
+    },
+    {
+      "id": 4,
+      "link": "/goods/detail/10195",
+      "tittle": "智能降噪 长久续航",
+      "imgSrc": "http://localhost:8080/assets/image/8fc9776e-9393-421d-998c-e516b3877dba.jpg"
+    }
+  ],
+  "goodsDetail": [
+    {
+      "goodsId": 10195,
+      "goodsName": "xiaomi"
+    },
+    {
+      "goodsId": 10196,
+      "goodsName": "iphone"
+    }
+  ],
+  "review": [
+    {
+      "goodsId": 10195,
+      "offset": 0,
+      "reviewCount": 7,
+      "reviewList": [
+        {
+          "rating": 5,
+          "nickName": "a",
+          "reviewDate": "2022/04/13",
+          "goodsName": "ゴムバンド付き敷きパッド",
+          "title": "ひんやり最高",
+          "content": "めっちゃひんやりしていて気持ちがいいです 裏表使えるのもとってもいい◎ 買ってよかった",
+          "count": 3,
+          "photo1": "http://localhost:8080/assets/image/3bfc7c72-b56a-4088-8acf-e01e830ce72a.jpg",
+          "photo2": "http://localhost:8080/assets/image/3bfc7c72-b56a-4088-8acf-e01e830ce72a.jpg",
+          "photo3": null
+        },
+        {
+          "rating": 4,
+          "nickName": "b",
+          "reviewDate": "2022/04/11",
+          "goodsName": "ゴムバンド付き敷きパッド",
+          "title": "寝心地サイコー",
+          "content": "昨日から使用してますが、今は春秋用でぐっすり眠れました。 夏用が楽しみです。",
+          "count": 2,
+          "photo1": "http://localhost:8080/assets/image/7a406989-061b-4f69-baa1-6fa499aa091d.jpg",
+          "photo2": null,
+          "photo3": null
+        },
+        {
+          "rating": 4,
+          "nickName": "d",
+          "reviewDate": "2022/05/18",
+          "goodsName": "ゴムバンド付き敷きパッド",
+          "title": "title1",
+          "content": "content1",
+          "count": 5,
+          "photo1": null,
+          "photo2": null,
+          "photo3": null
+        }
+      ]
+    },
+    {
+      "goodsId": 10195,
+      "offset": 3,
+      "reviewCount": 7,
+      "reviewList": [
+        {
+          "rating": 4,
+          "nickName": "e",
+          "reviewDate": "2022/05/23",
+          "goodsName": "ゴムバンド付き敷きパッド",
+          "title": "title2",
+          "content": "content2",
+          "count": 7
+        },
+        {
+          "rating": 3,
+          "nickName": "f",
+          "reviewDate": "2022/05/17",
+          "goodsName": "ゴムバンド付き敷きパッド"
+        },
+        {
+          "rating": 3,
+          "nickName": "c",
+          "reviewDate": "2022/05/13",
+          "goodsName": "付き敷きパッド",
+          "title": "冷感",
+          "content": "今までジャパネットやイオンの冷感シーツ使っていたが、それよりもヒンヤリしていて夏を過ごせそう",
+          "count": 1,
+          "photo1": "http://localhost:8080/assets/image/8c1c9fb2-26aa-4fa0-b9ce-cf278d827fa6.jpg",
+          "photo2": "http://localhost:8080/assets/image/8c1c9fb2-26aa-4fa0-b9ce-cf278d827fa6.jpg",
+          "photo3": "http://localhost:8080/assets/image/8c1c9fb2-26aa-4fa0-b9ce-cf278d827fa6.jpg"
+        },
+        {
+          "rating": 2,
+          "nickName": "g",
+          "reviewDate": "2022/05/19",
+          "goodsName": "付き敷きパッド",
+          "title": "titleg",
+          "content": "contentg",
+          "count": 4,
+          "photo1": "http://localhost:8080/assets/image/8c1c9fb2-26aa-4fa0-b9ce-cf278d827fa6.jpg",
+          "photo2": "http://localhost:8080/assets/image/8c1c9fb2-26aa-4fa0-b9ce-cf278d827fa6.jpg",
+          "photo3": "http://localhost:8080/assets/image/8c1c9fb2-26aa-4fa0-b9ce-cf278d827fa6.jpg"
+        }
+      ]
+    }
+  ],
+  "postCode": {
+    "code": "10070-256",
+    "address": "秋葉原"
+  },
+  "reviewTotal": [
+    {
+      "goodsId": 10195,
+      "ratingAvg": 4,
+      "reviewCount": 7,
+      "titleCount": 6
+    },
+    {
+      "goodsId": 10196,
+      "ratingAvg": 5,
+      "reviewCount": 1,
+      "titleCount": 1
+    }
+  ],
+  "reviewRating": [
+    {
+      "goodsId": 10195,
+      "rating": [
+        {
+          "rating": 5,
+          "percentage": 14.28,
+          "ratingCount": 1
+        },
+        {
+          "rating": 4,
+          "percentage": 42.85,
+          "ratingCount": 3
+        },
+        {
+          "rating": 3,
+          "percentage": 28.57,
+          "ratingCount": 2
+        },
+        {
+          "rating": 2,
+          "percentage": 14.28,
+          "ratingCount": 1
+        },
+        {
+          "rating": 1,
+          "percentage": 0,
+          "ratingCount": 0
+        }
+      ]
+    },
+    {
+      "goodsId": 10196,
+      "rating": [
+        {
+          "rating": 5,
+          "percentage": 20,
+          "ratingCount": 5
+        },
+        {
+          "rating": 4,
+          "percentage": 40,
+          "ratingCount": 10
+        },
+        {
+          "rating": 3,
+          "percentage": 40,
+          "ratingCount": 10
+        },
+        {
+          "rating": 2,
+          "percentage": 0,
+          "ratingCount": 0
+        },
+        {
+          "rating": 1,
+          "percentage": 0,
+          "ratingCount": 0
+        }
+      ]
+    }
+  ],
+  "goodsqa": [
+    {
+      "goodsId": 10195,
+      "totalCount": 5,
+      "qaList": [
+        {
+          "questionContents": "questionContents1",
+          "questionDate": "2022/04/17",
+          "answerContents": "questionContents1",
+          "answerName": "answerName1",
+          "answerDate": "2022/05/17",
+          "count": 1
+        },
+        {
+          "questionContents": "questionContents2",
+          "questionDate": "2022/04/18",
+          "answerContents": "questionContents2",
+          "answerName": "answerName1",
+          "answerDate": "2022/05/18",
+          "count": 2
+        },
+        {
+          "questionContents": "questionContents3",
+          "questionDate": "2022/04/19",
+          "answerContents": "questionContents3",
+          "answerName": "answerName1",
+          "answerDate": "2022/05/19",
+          "count": 10
+        },
+        {
+          "questionContents": "questionContents4",
+          "questionDate": "2022/04/20",
+          "answerContents": "questionContents4",
+          "answerName": "answerName1",
+          "answerDate": "2022/05/10",
+          "count": 4
+        },
+        {
+          "questionContents": "questionContents5",
+          "questionDate": "2022/04/21",
+          "answerContents": "questionContents5",
+          "answerName": "answerName1",
+          "answerDate": "2022/05/21",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "goodsId": 10196,
+      "totalCount": 3,
+      "qaList": [
+        {
+          "questionContents": "questionContents6",
+          "questionDate": "2022/04/17",
+          "answerContents": "questionContents6",
+          "answerName": "answerName1",
+          "answerDate": "2022/05/17",
+          "count": 1
+        },
+        {
+          "questionContents": "questionContents7",
+          "questionDate": "2022/04/18",
+          "answerContents": "questionContents7",
+          "answerName": "answerName1",
+          "answerDate": "2022/05/18",
+          "count": 2
+        },
+        {
+          "questionContents": "questionContents8",
+          "questionDate": "2022/04/19",
+          "answerContents": "questionContents8",
+          "answerName": "answerName1",
+          "answerDate": "2022/05/19",
+          "count": 3
+        }
+      ]
+    }
+  ],
+  "goodsInfo": [
+    {
+      "goodsId": 10195,
+      "goodsDescribe": "Tシャツのような肌ざわり、ニット素材",
+      "sizeList": [
+        {
+          "sku": "10195s_gr",
+          "quantity": 1,
+          "skuName": "ゴムバンド付き敷きパッド single(オーガニックコットン BE S)",
+          "goodsSize": "single",
+          "sizeValue": "7564861",
+          "dataCode": "05700010014",
+          "color": "gray",
+          "imgUrl": "http://localhost:8080/assets/image/graycolor1.jpg",
+          "price": 1990,
+          "code": 7564865,
+          "size": "幅100×奥行200cm",
+          "material": "コットン",
+          "weight": "約920g",
+          "warrantyYear": "1年",
+          "point": 18,
+          "photoList": [
+            "http://localhost:8080/assets/image/graycolor1.jpg",
+            "http://localhost:8080/assets/image/756486701.jpg",
+            "http://localhost:8080/assets/image/graycolor2.jpg",
+            "http://localhost:8080/assets/image/graycolor3.jpg",
+            "http://localhost:8080/assets/image/graycolor4.jpg"
+          ]
+        },
+        {
+          "sku": "10195s_b",
+          "quantity": 1,
+          "skuName": "ゴムバンド付き敷きパッド single(オーガニックコットン BE S)",
+          "goodsSize": "single",
+          "sizeValue": "7564871",
+          "dataCode": "05700010014",
+          "color": "beige",
+          "imgUrl": "http://localhost:8080/assets/image/756486301.webp",
+          "price": 1990,
+          "code": 7564861,
+          "size": "幅100×奥行200cm",
+          "material": "コットン",
+          "weight": "約920g",
+          "warrantyYear": "1年",
+          "point": 18,
+          "photoList": [
+            "http://localhost:8080/assets/image/756486102.webp",
+            "http://localhost:8080/assets/image/756486301.webp",
+            "http://localhost:8080/assets/image/756486103.webp",
+            "http://localhost:8080/assets/image/756486102.webp",
+            "http://localhost:8080/assets/image/756486301.webp"
+          ]
+        },
+        {
+          "sku": "10195sd_gr",
+          "quantity": 1,
+          "skuName": "ゴムバンド付き敷きパッド semidouble(オーガニックコットン BE SD)",
+          "goodsSize": "semidouble",
+          "sizeValue": "7564862",
+          "dataCode": "05700010017",
+          "price": 2990,
+          "code": 7564866,
+          "color": "gray",
+          "colorValue": "00100070019",
+          "imgUrl": "http://localhost:8080/assets/image/graycolor1.jpg",
+          "size": "幅100×奥行200cm",
+          "material": "コットン",
+          "weight": "約920g",
+          "warrantyYear": "1年",
+          "point": 27,
+          "photoList": [
+            "http://localhost:8080/assets/image/graycolor1.jpg",
+            "http://localhost:8080/assets/image/756486701.jpg",
+            "http://localhost:8080/assets/image/graycolor2.jpg",
+            "http://localhost:8080/assets/image/graycolor3.jpg",
+            "http://localhost:8080/assets/image/graycolor4.jpg"
+          ]
+        },
+        {
+          "sku": "10195sd_b",
+          "quantity": 1,
+          "skuName": "ゴムバンド付き敷きパッド semidouble(オーガニックコットン BE SD)",
+          "goodsSize": "semidouble",
+          "sizeValue": "7564872",
+          "dataCode": "05700010017",
+          "price": 2990,
+          "code": 7564862,
+          "color": "beige",
+          "colorValue": "00100180026",
+          "imgUrl": "http://localhost:8080/assets/image/756486301.webp",
+          "size": "幅100×奥行200cm",
+          "material": "コットン",
+          "weight": "約920g",
+          "warrantyYear": "1年",
+          "point": 27,
+          "photoList": [
+            "http://localhost:8080/assets/image/756486102.webp",
+            "http://localhost:8080/assets/image/756486301.webp",
+            "http://localhost:8080/assets/image/756486103.webp",
+            "http://localhost:8080/assets/image/756486102.webp",
+            "http://localhost:8080/assets/image/756486301.webp"
+          ]
+        },
+        {
+          "sku": "10195sd_wh",
+          "quantity": 1,
+          "skuName": "ゴムバンド付き敷きパッド semidouble(オーガニックコットン BE SD)",
+          "goodsSize": "semidouble",
+          "sizeValue": "7564882",
+          "dataCode": "05700010017",
+          "price": 2990,
+          "code": 7564860,
+          "color": "white",
+          "colorValue": "00100180026",
+          "imgUrl": "http://localhost:8080/assets/image/white1.jpg",
+          "size": "幅100×奥行200cm",
+          "material": "コットン",
+          "weight": "約920g",
+          "warrantyYear": "1年",
+          "point": 27,
+          "photoList": [
+            "http://localhost:8080/assets/image/white1.jpg",
+            "http://localhost:8080/assets/image/white2.jpg",
+            "http://localhost:8080/assets/image/white3.jpg",
+            "http://localhost:8080/assets/image/white4.jpg",
+            "http://localhost:8080/assets/image/white5.jpg"
+          ]
+        },
+        {
+          "sku": "10195d_gr",
+          "quantity": 1,
+          "skuName": "ゴムバンド付き敷きパッド double(オーガニックコットン BE D)",
+          "goodsSize": "double",
+          "sizeValue": "7564863",
+          "dataCode": "05700010019",
+          "price": 3990,
+          "code": 7564867,
+          "color": "gray",
+          "colorValue": "00100070019",
+          "imgUrl": "http://localhost:8080/assets/image/graycolor1.jpg",
+          "size": "幅100×奥行200cm",
+          "material": "コットン",
+          "weight": "約920g",
+          "warrantyYear": "1年",
+          "point": 36,
+          "photoList": [
+            "http://localhost:8080/assets/image/graycolor1.jpg",
+            "http://localhost:8080/assets/image/756486701.jpg",
+            "http://localhost:8080/assets/image/graycolor2.jpg",
+            "http://localhost:8080/assets/image/graycolor3.jpg",
+            "http://localhost:8080/assets/image/graycolor4.jpg"
+          ]
+        },
+        {
+          "sku": "10195d_b",
+          "quantity": 1,
+          "skuName": "ゴムバンド付き敷きパッド double(オーガニックコットン BE D)",
+          "goodsSize": "double",
+          "sizeValue": "7564873",
+          "dataCode": "05700010019",
+          "price": 3990,
+          "code": 7564863,
+          "color": "beige",
+          "colorValue": "00100180026",
+          "imgUrl": "http://localhost:8080/assets/image/756486301.webp",
+          "size": "幅100×奥行200cm",
+          "material": "コットン",
+          "weight": "約920g",
+          "warrantyYear": "1年",
+          "point": 36,
+          "photoList": [
+            "http://localhost:8080/assets/image/756486102.webp",
+            "http://localhost:8080/assets/image/756486301.webp",
+            "http://localhost:8080/assets/image/756486103.webp",
+            "http://localhost:8080/assets/image/756486102.webp",
+            "http://localhost:8080/assets/image/756486301.webp"
+          ]
+        }
+      ],
+      "sizeList1": [
+        {
+          "goodsSize": "single",
+          "sizeValue": "7564861",
+          "dataCode": "05700010014"
+        },
+        {
+          "goodsSize": "semidouble",
+          "sizeValue": "7564862",
+          "dataCode": "05700010017"
+        },
+        {
+          "goodsSize": "double",
+          "sizeValue": "7564863",
+          "dataCode": "05700010019"
+        }
+      ],
+      "variants": [
+        {
+          "goodsSize": "single",
+          "color": [
+            "gray",
+            "beige"
+          ]
+        },
+        {
+          "goodsSize": "semidouble",
+          "color": [
+            "gray",
+            "beige",
+            "white"
+          ]
+        },
+        {
+          "goodsSize": "double",
+          "color": [
+            "gray",
+            "beige"
+          ]
+        }
+      ]
+    }
+  ],
+  "cartList": [
+    {
+      "id": 3,
+      "userId": 989898,
+      "sku": "10195sd_wh",
+      "date": "2022-06-14 09:30:00",
+      "goodsTitle": "ゴムバンド付き敷きパッド semidouble(オーガニックコットン BE SD)",
+      "sizeValue": "7564882",
+      "color": "white",
+      "goodsSize": "semidouble",
+      "price": 2990,
+      "point": 27,
+      "photo": "http://localhost:8080/assets/image/white1.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 1,
+      "userId": 989898,
+      "sku": "10195d_b",
+      "date": "2022-06-14 09:30:00",
+      "goodsTitle": "ゴムバンド付き敷きパッド　double(オーガニックコットン BE D)",
+      "sizeValue": "7564873",
+      "color": "beige",
+      "goodsSize": "double",
+      "price": 3990,
+      "point": 36,
+      "photo": "http://localhost:8080/assets/image/756486102.webp",
+      "quantity": 0
+    },
+    {
+      "id": 2,
+      "userId": 989898,
+      "sku": "10195d_gr",
+      "date": "2022-06-14 09:30:00",
+      "goodsTitle": "ゴムバンド付き敷きパッド　double(オーガニックコットン BE D)",
+      "sizeValue": "7564863",
+      "color": "gray",
+      "goodsSize": "double",
+      "price": 3990,
+      "point": 36,
+      "photo": "http://localhost:8080/assets/image/graycolor1.jpg",
+      "quantity": 1
+    }
+  ],
+  "addCart": [
+    {
+      "id": 1,
+      "userId": 989898,
+      "sku": "10195d_b",
+      "quantity": 1,
+      "cartDate": "2022-06-14 09:30:00"
+    },
+    {
+      "id": 2,
+      "userId": 989898,
+      "sku": "10195sd_wh",
+      "quantity": 1,
+      "cartDate": "2022-06-14 10:30:00"
+    },
+    {
+      "userId": 989898,
+      "sku": "10195sd_wh",
+      "sizeValue": "7564882",
+      "quantity": 333,
+      "cartDate": "2022-06-16T02:07:08.807Z",
+      "id": 3
+    },
+    {
+      "userId": 989898,
+      "sku": "10195s_b",
+      "sizeValue": "7564871",
+      "point": 18,
+      "quantity": 777,
+      "cartDate": "2022-06-16T02:22:38.245Z",
+      "id": 4
+    },
+    {
+      "userId": "989898",
+      "sku": "10195sd_wh",
+      "sizeValue": "7564882",
+      "point": 27,
+      "quantity": 555,
+      "cartDate": "2022-06-17T04:58:45.223Z",
+      "id": 5
+    },
+    {
+      "userId": "989898",
+      "sku": "10195s_gr",
+      "sizeValue": "7564861",
+      "point": 18,
+      "quantity": 8,
+      "cartDate": "2022-06-28T07:12:17.529Z",
+      "id": 6
+    },
+    {
+      "userId": "989898",
+      "sku": "10195s_gr",
+      "sizeValue": "7564861",
+      "point": 18,
+      "quantity": 78,
+      "cartDate": "2022-06-28T07:13:12.485Z",
+      "id": 7
+    },
+    {
+      "userId": "989898",
+      "sku": "",
+      "quantity": 1,
+      "cartDate": "2022-06-29T08:31:40.309Z",
+      "id": 8
+    },
+    {
+      "userId": "989898",
+      "sku": "",
+      "quantity": 1,
+      "cartDate": "2022-06-29T09:48:14.612Z",
+      "id": 9
+    },
+    {
+      "userId": "989898",
+      "sku": "",
+      "quantity": 1,
+      "cartDate": "2022-06-30T05:15:45.157Z",
+      "id": 10
+    },
+    {
+      "userId": "989898",
+      "sku": "10195s_b",
+      "sizeValue": "7564871",
+      "point": 18,
+      "quantity": 1,
+      "cartDate": "2022-07-02T00:47:56.190Z",
+      "id": 11
+    },
+    {
+      "userId": "989898",
+      "sku": "10195s_b",
+      "sizeValue": "7564871",
+      "point": 18,
+      "quantity": 1,
+      "cartDate": "2022-07-02T00:58:31.735Z",
+      "id": 12
+    }
+  ],
+  "buyLaterList": [],
+  "userInfo": [
+    {
+      "userId": 989898,
+      "name": "user1",
+      "currentPoint": 0,
+      "invalidPoint": 0,
+      "barCode": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAAAyAQAAAAAxKqlMAAAAL0lEQVR42mP4Oa+iTnIe+/wZdXWVM+exVf6QS3w4f15d5XyGUZlRmVGZUZkRJwMAmAiCT1WO9tcAAAAASUVORK5CYII=",
+      "cardNum": 2200758580177
+    }
+  ],
+  "orderList": [
+    {
+      "userId": 989898,
+      "name": "user1",
+      "orderCode": "EC121231234",
+      "orderId": 1,
+      "orderDate": "2022/06/20",
+      "deliveryDate": "2022/07/04",
+      "orderStatus": "出荷・お渡し準備中",
+      "statusValue": "READY"
+    },
+    {
+      "userId": 989898,
+      "name": "user1",
+      "orderCode": "EC121231235",
+      "orderId": 2,
+      "orderDate": "2022/05/20",
+      "deliveryDate": "2022/06/04",
+      "orderStatus": "出荷・配送・お渡し済",
+      "statusValue": "SHIPPED"
+    },
+    {
+      "userId": 989898,
+      "name": "user1",
+      "orderCode": "EC121231236",
+      "orderId": 3,
+      "orderDate": "2021/04/20",
+      "deliveryDate": "2021/05/04",
+      "orderStatus": "出荷・配送・お渡し済",
+      "statusValue": "SHIPPED"
+    },
+    {
+      "userId": 989898,
+      "name": "user1",
+      "orderCode": "EC121231237",
+      "orderId": 4,
+      "orderDate": "2021/12/20",
+      "deliveryDate": "2022/10/04",
+      "orderStatus": "出荷・お渡し準備中",
+      "statusValue": "READY"
+    }
+  ],
+  "orderDetail": [
+    {
+      "userId": 989898,
+      "orderCode": "EC121231234",
+      "userName": "user1",
+      "postCode": 1234567,
+      "orderStatus": "出荷・お渡し準備中",
+      "orderDate": "2022/06/20",
+      "deliveryDate": "2022/07/04(月)19:00~21:00",
+      "deliveryNo": "121231234",
+      "deliveryType": "宅配便",
+      "detailAddress": "address1",
+      "detailEmail": "email1",
+      "phoneNo": "phone1",
+      "orderDetail": [
+        {
+          "skuName": "ゴムバンド付き敷きパッド single(オーガニックコットン BE S)",
+          "sizeValue": "7564871",
+          "color": "beige",
+          "size": "single",
+          "quantity": 1,
+          "warrantYear": "1年",
+          "price": 1990,
+          "imgUrl": "http://localhost:8080/assets/image/756486102.webp"
+        },
+        {
+          "skuName": "ゴムバンド付き敷きパッド single(オーガニックコットン BE D)",
+          "sizeValue": "7564863",
+          "color": "gray",
+          "size": "double",
+          "quantity": 4,
+          "warrantYear": "1年",
+          "price": 3990,
+          "imgUrl": "http://localhost:8080/assets/image/graycolor3.jpg"
+        }
+      ]
+    }
+  ],
+  "wishList": [
+    {
+      "userId": 989898,
+      "id": 1,
+      "listName": "お気に入り商品",
+      "goodsList": []
+    },
+    {
+      "userId": 989898,
+      "id": 2,
+      "listName": "123",
+      "goodsList": []
+    },
+    {
+      "userId": "989898",
+      "listName": "123456999",
+      "goodsList": [],
+      "id": 4
+    }
+  ],
+  "wishgoodsList": [
+    {
+      "listName": "123",
+      "userId": "989898",
+      "id": 1,
+      "skuName": "ゴムバンド付き敷きパッド single(オーガニックコットン BE S)",
+      "price": 1990,
+      "imgUrl": "http://localhost:8080/assets/image/graycolor2.jpg",
+      "quantity": 1
+    },
+    {
+      "listName": "123",
+      "userId": "989898",
+      "id": 4,
+      "skuName": "ゴムバンド付き敷きパッド double(オーガニックコットン BE D)",
+      "price": 3990,
+      "imgUrl": "http://localhost:8080/assets/image/756486102.webp",
+      "quantity": 1
+    },
+    {
+      "sku": "10195s_b",
+      "quantity": 1,
+      "skuName": "ゴムバンド付き敷きパッド single(オーガニックコットン BE S)",
+      "goodsSize": "single",
+      "sizeValue": "7564871",
+      "dataCode": "05700010014",
+      "color": "beige",
+      "imgUrl": "http://localhost:8080/assets/image/756486301.webp",
+      "price": 1990,
+      "code": 7564861,
+      "size": "幅100×奥行200cm",
+      "material": "コットン",
+      "weight": "約920g",
+      "warrantyYear": "1年",
+      "point": 18,
+      "photoList": [
+        "http://localhost:8080/assets/image/756486102.webp",
+        "http://localhost:8080/assets/image/756486301.webp",
+        "http://localhost:8080/assets/image/756486103.webp",
+        "http://localhost:8080/assets/image/756486102.webp",
+        "http://localhost:8080/assets/image/756486301.webp"
+      ],
+      "listName": "123",
+      "userId": "989898",
+      "id": 5
+    },
+    {
+      "obj": {},
+      "item": {},
+      "id": 8
+    },
+    {
+      "userId": "989898",
+      "listName": "お気に入り商品",
+      "quantity": 1,
+      "sku": "10195d_gr",
+      "skuName": "ゴムバンド付き敷きパッド double(オーガニックコットン BE D)",
+      "goodsSize": "double",
+      "sizeValue": "7564863",
+      "dataCode": "05700010019",
+      "price": 3990,
+      "code": 7564867,
+      "color": "gray",
+      "colorValue": "00100070019",
+      "imgUrl": "http://localhost:8080/assets/image/graycolor1.jpg",
+      "size": "幅100×奥行200cm",
+      "material": "コットン",
+      "weight": "約920g",
+      "warrantyYear": "1年",
+      "point": 36,
+      "photoList": [
+        "http://localhost:8080/assets/image/graycolor1.jpg",
+        "http://localhost:8080/assets/image/756486701.jpg",
+        "http://localhost:8080/assets/image/graycolor2.jpg",
+        "http://localhost:8080/assets/image/graycolor3.jpg",
+        "http://localhost:8080/assets/image/graycolor4.jpg"
+      ],
+      "id": 9
+    },
+    {
+      "userId": "989898",
+      "listName": "お気に入り商品",
+      "quantity": 1,
+      "sku": "10195s_b",
+      "skuName": "ゴムバンド付き敷きパッド single(オーガニックコットン BE S)",
+      "goodsSize": "single",
+      "sizeValue": "7564871",
+      "dataCode": "05700010014",
+      "color": "beige",
+      "imgUrl": "http://localhost:8080/assets/image/756486301.webp",
+      "price": 1990,
+      "code": 7564861,
+      "size": "幅100×奥行200cm",
+      "material": "コットン",
+      "weight": "約920g",
+      "warrantyYear": "1年",
+      "point": 18,
+      "photoList": [
+        "http://localhost:8080/assets/image/756486102.webp",
+        "http://localhost:8080/assets/image/756486301.webp",
+        "http://localhost:8080/assets/image/756486103.webp",
+        "http://localhost:8080/assets/image/756486102.webp",
+        "http://localhost:8080/assets/image/756486301.webp"
+      ],
+      "id": 10
+    }
+  ],
+
+  "InfoChange": [
+    {
+      "userId": "989898",
+      "name": "王",
+      "nameKANA": "オウ",
+      "email": "wang@gmail.com",
+      "tel11": "123",
+      "tel12": "456",
+      "tel13": "789",
+      "gender": "女",
+      "birthyear": "2022",
+      "birthmonth": "07",
+      "birthday": "05",
+      "postCode": "1111111",
+      "city": "東京都",
+      "village": "中野区",
+      "villageName": "中央",
+      "streetname1": "123",
+      "streetname2": "456",
+      "streetname3": "789",
+      "buildingName": "ABC",
+      "roomNo": "101",
+      "typing": "集合住宅",
+      "ele": "なし",
+      "newPassword": "12345678"
+    }
+  ]
+}
