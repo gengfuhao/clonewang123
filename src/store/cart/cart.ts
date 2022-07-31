@@ -33,7 +33,7 @@ export default {
   state: {
     cart: [],
     quantity: 0,
-    sku: "333sssss44444",
+    sku: "33",
     subtotal: "",
     buyLaterItem: [],
     item: {
